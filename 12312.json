@@ -1,0 +1,1 @@
+{"lifecycle":[{"cells":[]}],"fields":[{"fieldName":"accountNumber","value":"IBAN"}],"invariants":[{"fieldName":"mustBePositive","value":"invariant mustBePostive { this.balance >= EUR 0.00 }"},{"fieldName":"myFunction","value":"invariant myFunction {this.x > this.y}"}]}
